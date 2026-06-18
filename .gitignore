@@ -1,0 +1,13 @@
+# IDE
+.idea/
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Excluded report file
+SVMReport.md
